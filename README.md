@@ -1,5 +1,7 @@
 # HOSPITAL-TRANSACTIONS-USING-POWER-BI
 
+![image](https://github.com/user-attachments/assets/663faa7f-78c3-4278-bed4-f8b40258f1bf)
+
 ![Hospital room](https://github.com/user-attachments/assets/689cd8aa-3142-4515-b981-5baa71805242)
 
 ## TABLE OF CONTENT
